@@ -6,6 +6,8 @@ Nausika is a connector that grounds AI assistants in the one thing they cannot m
 
 **[nausika.app](https://nausika.app)** · **[Connect to your assistant](https://nausika.app/#install)** · **[Docs](https://nausika.app/docs)**
 
+[![mcp.nausika.app](https://img.shields.io/website?url=https%3A%2F%2Fmcp.nausika.app%2Fhealth&label=mcp.nausika.app&up_message=live&down_message=offline&style=flat-square)](https://mcp.nausika.app/health) [![beta](https://img.shields.io/badge/status-public%20beta-blue?style=flat-square)](https://nausika.app) [![coverage](https://img.shields.io/badge/coverage-Mediterranean-1d6f42?style=flat-square)](https://github.com/nausika-app/nausika-feedback/issues/2)
+
 ---
 
 ## Status
