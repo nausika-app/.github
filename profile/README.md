@@ -13,7 +13,7 @@ Nausika is a connector that grounds AI assistants in the one thing they cannot m
 ## Status
 
 - **Public beta.** Mediterranean basin is the curated coverage area for places and routing. Forecasts, tides, coastline, and geocode work globally via fallbacks.
-- **MCP endpoint:** `https://mcp.nausika.app/mcp` — OAuth 2.1 (or M2M API key).
+- **MCP endpoint:** `https://mcp.nausika.app` — OAuth 2.1 (or M2M API key).
 - **Coverage area today:** Mediterranean. Atlantic and other basins are next.
 - Maintainer: [Andrea di Cagno](https://github.com/andreadicagno). Solo dev. Triage weekly. No SLA — this is a beta.
 
